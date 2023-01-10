@@ -17,3 +17,4 @@ Licence [CC BY 2.5 AU](https://creativecommons.org/licenses/by/2.5/au/)
 Licence [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
 
 [Главное меню](./readme.md)
+

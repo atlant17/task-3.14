@@ -1,5 +1,4 @@
 # Инструкция потработе с GIT
-
 ---
 
 ![logo](./img/Git-icon-black.svg.png)
