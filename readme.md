@@ -9,7 +9,12 @@
  1. [Установка](./installation.md)
  2. [Рабочий документ](./working_file.md)
  3. [Git add](./add.md)
- 4. [Git Push](./push.md)
+ 4. [Git push](./push.md)
+ 5. [Git log](./log.md)
+ 6. [Git pull](./pull.md)
+ 7. [Git branch](./branch.md)
+ 8. [Git merge](./merge.md)
+ 9. [Обучающий материал](./educational.md)
  
 
 
